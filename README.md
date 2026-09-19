@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Joshua%20Narvasa&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=FrekiJoms%20%7C%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Freki%20Dev&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Developer%20%7C%20AI%20%2B%20Automation&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://github.com/FrekiJoms">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+tools+that+solve+real+problems;AI+%2B+Automation+%2B+Web+Development;Learning+by+building%2C+testing%2C+and+shipping" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm **Joshua Narvasa**, also known as **FrekiJoms** on GitHub.
+I'm **Freki Dev**, also known as **FrekiJoms** on GitHub.
 
 I build practical software centered around AI, automation, developer tooling, documentation, databases, and web applications. Most of my projects start from a problem I want to understand better and eventually turn into something usable.
 
@@ -116,7 +116,7 @@ The project follows the **Agent Skills open standard** and can work with SKILL.m
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,kotlin,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,kotlin&theme=dark" />
 
 ### Web and Application Development
 
