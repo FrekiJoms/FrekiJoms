@@ -19,7 +19,28 @@
 </div>
 
 ---
+## Contribution Graph
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/FrekiJoms/FrekiJoms/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/FrekiJoms/FrekiJoms/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Freki Dev GitHub contribution graph"
+    src="https://raw.githubusercontent.com/FrekiJoms/FrekiJoms/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
 ## About Me
 
 I'm **Josh**, also known as **FrekiDev** on GitHub.
